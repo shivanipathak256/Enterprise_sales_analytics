@@ -5,19 +5,19 @@ This project analyzes a sales dataset to uncover key business insights such as r
 
 🛠 Tools Used
 
-SQL
-
-Microsoft Excel
+- SQL
+- Microsoft Excel
+- Power BI
 
 🔍 Key Analysis
 
-Total revenue calculation
+- Total revenue calculation
 
-Top customers by total spending
+- Top customers by total spending
 
-Best-selling products
+- Best-selling products
 
-Sales trends over time
+- Sales trends over time
 
 📈 Insights
 
@@ -25,13 +25,13 @@ The analysis helps identify high-value customers, top-performing products, and s
 
 🚀 Skills Demonstrated
 
-Data Cleaning
+- Data Cleaning
 
-SQL Queries
+- SQL Queries
 
-Data Aggregation
+- Data Aggregation
 
-Business Insight Generation
+- Business Insight Generation
 
 
 
